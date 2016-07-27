@@ -1,0 +1,65 @@
+body{
+    margin-top: 30px;
+    color: #eee;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.search-form{
+    width: 100%;
+    margin: auto;
+    background: black;
+    padding: 20px 20px 20px 20px;
+    border: 1px #ccc solid;
+
+    border-color: black;
+
+}
+
+img{
+    height : 50%;
+    width: 80%;
+}
+
+.thumbnail {
+  height : 50%;
+  width: 80%;
+}
+.row{
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+#searchInput{
+  width: 700px;
+}
+#searchButton{
+  width: 700px;
+  height: 30px;
+}
+.MovieBox{
+  background-color:#333;
+}
+
+.MovieBoxView{
+  background-color:#333;
+}
+h3,h4{
+  color: #1ABC9C;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.form-control{
+
+  background-color:#747474;
+  border-color:#747474;
+}
+
+body{
+  background-color:#747474;
+  color: #1ABC9C;
+}
+
+nav li {
+  display: inline;
+}
